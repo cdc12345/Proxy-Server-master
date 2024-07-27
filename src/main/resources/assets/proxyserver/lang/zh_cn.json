@@ -1,0 +1,19 @@
+{
+  "ui.proxyserver.options.proxy": "Proxy",
+  "ui.proxyserver.options.invalidIpPort": "无效的IP和端口配置",
+  "ui.proxyserver.options.proxyType": "代理类别: ",
+  "ui.proxyserver.options.auth": "代理验证",
+  "ui.proxyserver.options.ipPort": "IP:PORT: ",
+  "ui.proxyserver.options.apply": "应用",
+  "ui.proxyserver.options.cancel": "取消",
+  "ui.proxyserver.options.proxyEnabled": "启用代理",
+  "ui.proxyserver.auth.id": "用户ID: ",
+  "ui.proxyserver.auth.username": "用户名: ",
+  "ui.proxyserver.auth.password": "密码: ",
+  "ui.proxyserver.err.specProxy": "Specify proxy to test",
+  "ui.proxyserver.err.cantConnect": "Can't connect to proxy",
+  "ui.proxyserver.err.cantPing": "Can't ping %d",
+  "ui.proxyserver.err.cantPingReason": "Can't ping %d: %d",
+  "ui.proxyserver.ping.pinging": "Pinging %d...",
+  "ui.proxyserver.ping.showPing": "Ping: %dms"
+}
